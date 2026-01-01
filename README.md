@@ -14,6 +14,10 @@ The plan is as follows:
                 Each node explicitly lists its prerequisites (e.g., in YAML front matter),
                 so the dependency graph can be extracted automatically and checked for cycles.
 
+So, basically, I’m trying to create a giant textbook
+that covers all the core subjects taught to undergraduates (algebra, analysis, topology, etc.),
+organized around a dependency graph so readers (and myself!) can navigate it easily.
+
 Initially, I will use Obsidian to browse and edit the notes
 and to explore connections via links and graph views.
 In the future I may develop a front-end application that visualizes the dependencies exactly as I want.
