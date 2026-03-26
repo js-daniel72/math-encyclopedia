@@ -1,3 +1,5 @@
+### This project is cancelled. (Not that I ever started it...) I've realized that organizing everything this DAG-way will waste more time than it saves. I'm still trying to create a math personal knowledge base in some form, but this doesn't seem to be the way to go.
+
 This project is an attempt to organize all the math I have learned throughout my undergraduate years.
 
 It has two purposes:
